@@ -96,7 +96,7 @@ Through this project, I learned:
 
 Mansu Ram Garai
 
-Bachelor of Computer Application (BCA)
+
 Satyaprakash Sethy (https://github.com/SATYAPRAKASHSETHY)
 
 📄 License
